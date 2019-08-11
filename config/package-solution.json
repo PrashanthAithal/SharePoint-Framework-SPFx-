@@ -1,0 +1,14 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "tnd-share-point-sp-fx-client-side-solution",
+    "id": "81d98a1d-e1bd-404e-b8e1-e0f37c7493b0",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+    //"isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/tnd-share-point-sp-fx.sppkg"
+  }
+}
